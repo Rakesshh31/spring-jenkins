@@ -18,6 +18,9 @@ class SpringJenkinsApplicationTests {
 		
 		logger.info("test case executing...");
 		
+		logger.info("test case executing.. second .");
+
+		
 		assertEquals(true, true);
 	}
 
